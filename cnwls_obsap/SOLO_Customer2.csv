@@ -1,0 +1,75 @@
+U_OldCode;CardName;CardType;CardFName;Type;Series;GroupCode;CreditLimit;U_locktimeout;FederalTaxID;MailAddress;Outlet;Address;Delivery Route
+A102.045;ALAMAMA RESTO;cCustomer;ALAMAMA RESTO;Restaurant;803;102;10000000;30;0.0000.00000.00000.;Jl. Gajahmada No.42, Timuran, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57131 (depan Hotel Novotel Solo);ALAMAMA RESTO;Jl. Gajahmada No.42, Timuran, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57131 (depan Hotel Novotel Solo);
+A110.004;AL GHUROBA;cCustomer;AL GHUROBA;Restaurant;803;102;5000000;30;0.0000.00000.00000.;Jl. Aster Raya, Talang Abang, RT 05/11, Sanggrahan, Kec. Grogol, Kabupaten Sukorharjo, Jawa Tengah 57552, Indonesia;AL GHUROBA;Jl. Aster Raya, Talang Abang, RT 05/11, Sanggrahan, Kec. Grogol, Kabupaten Sukorharjo, Jawa Tengah 57552, Indonesia;
+A102.04;A PIZZA;cCustomer;A PIZZA;Restaurant;803;102;2000000;30;0.0000.00000.00000.;;;;
+A102.036;ARJE'S KITCHEN;cCustomer;ARJE'S KITCHEN;Restaurant;803;102;5000000;30;0.0000.00000.00000.;;;;
+A102.061;D'COLONELS;cCustomer;D'COLONELS;Restaurant;803;102;0;0;89.944.455.8-039.000;Jalan Honggowongso No.30 B, Kemlayan, Serengan, Sriwedari, Laweyan, Kota Surakarta, Jawa Tengah 57141;D'CAPELLO RESTO;Jalan Honggowongso No.30 B, Kemlayan, Serengan, Sriwedari, Laweyan, Kota Surakarta, Jawa Tengah 57141;
+A102.077;DOUBLE DECKER RESTAURANT;cCustomer;DOUBLE DECKER RESTAURANT;Restaurant;803;102;10000000;7;0.0000.00000.00000.;Jalan Doktor Sutomo No. 20, Sriwedari, Laweyan, Kota Surakarta, Jawa Tengah 57141 (KARONSHI BELOK KIRI);DOBUTZO;Jalan Doktor Sutomo No. 20, Sriwedari, Laweyan, Kota Surakarta, Jawa Tengah 57141 (KARONSHI BELOK KIRI);
+A102.079;D'S DINNER CAFE & RESTO;cCustomer;D'S DINNER CAFE & RESTO;Restaurant;803;102;5000000;30;0.0000.00000.00000.;Jalan Ir. Soekarno (ground floor fave Hotel), Solo Baru, Madegondo, Grogol, Kabupaten Sukoharjo, Jawa Tengah;DOUBLE DECKER Restaurant;Jalan Ir. Soekarno (ground floor fave Hotel), Solo Baru, Madegondo, Grogol, Kabupaten Sukoharjo, Jawa Tengah;
+A102.087;D'STADION RESTAURANT;cCustomer;D'STADION RESTAURANT;Restaurant;803;102;1000000;0;0.0000.00000.00000.;"BU RITA - 081802570807 
+ DREAMT PHOTOGRAPHY 
+ THE PARK MALL SOLOBARU - SF-18 
+ LANTAI PALING ATAS DEPAN ORCHARD JELE";DREAMT PHOTOGRAPHY;"BU RITA - 081802570807 
+ DREAMT PHOTOGRAPHY 
+ THE PARK MALL SOLOBARU - SF-18 
+ LANTAI PALING ATAS DEPAN ORCHARD JELE";
+A101.075;FAVE HOTEL SOLO BARU (PT. DELTA MERLIN DUNIA PROPERTI);cCustomer;PT. DELTA MERLIN DUNIA PROPERTI;Hotel;802;100;5000000;0;0.0000.00000.00000.;"HARTONO TRADE CENTER LANTAI PI/LT.3 
+ Jl. Ir. Soekarno No.10F, Dusun I, Madegondo, Grogol, Kabupaten Sukoharjo, Jawa Tengah 57552";EXECUTIVE KARAOKE;"HARTONO TRADE CENTER LANTAI PI/LT.3 
+ Jl. Ir. Soekarno No.10F, Dusun I, Madegondo, Grogol, Kabupaten Sukoharjo, Jawa Tengah 57552";
+A102.106;GARDEN RESTO;cCustomer;GARDEN RESTO;Restaurant;803;102;5000000;30;0.0000.00000.00000.;;;;
+A115.029;IBU GUNAWAN;cCustomer;IBU GUNAWAN;Umum;805;104;5000000;3;0.0000.00000.00000.;;DEWI IBU;;
+A115.027;INTERNATIONAL HOTEL MANAGEMENT HOTEL SOLO;cCustomer;INTERNATIONAL HOTEL MANAGEMENT HOTEL SOLO;Hotel;802;100;5000000;0;74.967.806.6-526.000;KAWASAN Hotel ALILA, JALAN SLAMET RIYADI NO.562 RT.001 RW.001 JAJAR, LAWEYAN SURAKARTA JAWA TENGAH 57141;PT. CIPTA REJEKI BERSAMA;KAWASAN Hotel ALILA, JALAN SLAMET RIYADI NO.562 RT.001 RW.001 JAJAR, LAWEYAN SURAKARTA JAWA TENGAH 57141;
+A114.037;KAMAYANGAN COFFE;cCustomer;KAMAYANGAN COFFE;Coffee Shop;829;120;5000000;30;0.0000.00000.00000.;;;;
+A102.134;KAMPOENG BAROE;cCustomer;KAMPOENG BAROE;Restaurant;803;102;1000000;14;92.496.659.1-526.000;Jl. Lawu No.1c, Perum Subur Makmur, RT.01/RW.25, Sumbermakmur, Ngringo, Kec. Jaten, Kabupaten Karanganyar,;MBAK NINIS;Jl. Lawu No.1c, Perum Subur Makmur, RT.01/RW.25, Sumbermakmur, Ngringo, Kec. Jaten, Kabupaten Karanganyar,;
+A102.13;KARONSSIH RESTO;cCustomer;KARONSSIH RESTO;Restaurant;803;102;5000000;0;33.110.953.0.500.0001;"JL. DIPONEGORO NO 55 
+ (DEPAN SMA KALAM KUDUS)";KAMI BURGER;"JL. DIPONEGORO NO 55 
+ (DEPAN SMA KALAM KUDUS)";
+A102.131;KEDAI PASTA D'PUTU BUMBUNG;cCustomer;KEDAI PASTA D'PUTU BUMBUNG;Restaurant;803;102;5000000;7;0.0000.00000.00000.;Jalan Brigjend Slamet Riyadi, Solo Square, Bengawan Solo Food Court, Laweyan, Pajang, Solo, Jawa Tengah;KEDAI KOPI MATARAM;Jalan Brigjend Slamet Riyadi, Solo Square, Bengawan Solo Food Court, Laweyan, Pajang, Solo, Jawa Tengah;
+A104.002;KUSUMA CATERING;cCustomer;KUSUMA CATERING;Catering;804;103;5000000;7;0.0000.00000.00000.;Jl. Raya Tawangmangu-Sarangan Kilometer 9. Bulakrejo RT 3 RW 6 Gondosuli Kidul Gondosuli Kec. Tawangmangu Kabupaten Karanganyar;KOPI PAK NO;Jl. Raya Tawangmangu-Sarangan Kilometer 9. Bulakrejo RT 3 RW 6 Gondosuli Kidul Gondosuli Kec. Tawangmangu Kabupaten Karanganyar;
+A102.155;MARY ANNE'S RESTAURANT SOLO;cCustomer;MARY ANNE'S RESTAURANT SOLO;Restaurant;803;102;5000000;0;0.0000.00000.00000.;Jalan Untung Suropati No.76, Kedung Lumbu, Pasar Kliwon, Surakarta, Pasar Kliwon, Surakarta City, Central Java 57113, Indonesia;MARAKEZ;Jalan Untung Suropati No.76, Kedung Lumbu, Pasar Kliwon, Surakarta, Pasar Kliwon, Surakarta City, Central Java 57113, Indonesia;
+A102.312;MOM MILK;cCustomer;MOM MILK;Restaurant;803;102;1000000;30;0.0000.00000.00000.;;;;
+A101.032;NAVA HOTEL (PT. NAVA SAMGATA);cCustomer;PT. NAVA SAMGATA;Restaurant;803;102;5000000;0;82.468.045.8-532.000;Hartono Trade Center LT-P1Jl. Ir. Soekarno Solo Baru RT.004 RW 002 Madegondo,Grogol,SukoharjoSamping NAGOYA LT 1;CV. MULTI ADIGUNA;Hartono Trade Center LT-P1Jl. Ir. Soekarno Solo Baru RT.004 RW 002 Madegondo,Grogol,SukoharjoSamping NAGOYA LT 1;
+A115.038;PAK MARVIN;cCustomer;PAK MARVIN;Umum;805;104;10000000;7;0.0000.00000.00000.;;P Budi Magelang;;
+A102.195;PALMYRA RESTAURANT;cCustomer;PALMYRA RESTAURANT;Restaurant;803;102;300000;14;0.0000.00000.00000.;;PAK KRISTIJONO;;
+A110.005;PERSONAL (FoC);cCustomer;PERSONAL (FoC);FC;812;113;0;14;0.0000.00000.00000.;;PATBINGSOO;;
+A102.203;PIZZA HOUSE;cCustomer;PIZZA HOUSE;Restaurant;803;102;5000000;0;0.0000.00000.00000.;;Peti mas;;
+A102.02;PRINGSEWU RESTAURANT;cCustomer;PRINGSEWU RESTAURANT;Restaurant;803;102;15000000;28;0.0000.00000.00000.;;PONDOK TINGAL Hotel;;
+A106.026;PT. JITU BOGA PERSADA;cCustomer;PT. JITU BOGA PERSADA;Restaurant;803;102;10000000;30;0.0000.00000.00000.;;POST IN;;
+A115.046;PUTRI;cCustomer;PUTRI;Restaurant;803;102;5000000;28;03.153.729.3-542.001;;PT. SATORIA PRIMA PERSADA;;
+A102.194;PUTU BUMBUNG;cCustomer;PUTU BUMBUNG;Restaurant;803;102;300000;30;0.0000.00000.00000.;;PRIMA INN Hotel;;
+A102.217;QUEEN PIZZA SOLO;cCustomer;QUEEN PIZZA SOLO;Restaurant;803;102;1000000;7;0.0000.00000.00000.;;Pringsewu Restaurant;;
+A102.221;RESTO ROCKET;cCustomer;RESTO ROCKET;Restaurant;803;102;300000;14;92.521.222.7-064.000;Gedung Pasaraya Blok M. Gedung B Lt. 6 dan 7Jl. Iskandarsyah II No. 2 Melawai Kebayoran Baru Jakarta Selatan;PT. REBEL GOFOOD INDONESIA;Gedung Pasaraya Blok M. Gedung B Lt. 6 dan 7Jl. Iskandarsyah II No. 2 Melawai Kebayoran Baru Jakarta Selatan;
+A102.319;RESWARA;cCustomer;RESWARA;Restaurant;803;102;1000000;14;92.521.222.7-064.000;Gedung Pasaraya Blok M Gedung B Lantai 6 dan 7Jl. Iskandarsyah II No. 2 Melawai Kebayoran Baru Jakarta Selatan DKI Jakarta;PT. REBEL GOFOOD INDONESIA;Gedung Pasaraya Blok M Gedung B Lantai 6 dan 7Jl. Iskandarsyah II No. 2 Melawai Kebayoran Baru Jakarta Selatan DKI Jakarta;
+A114.073;ROTAN CAFE (ROTI SOELTAN);cCustomer;ROTAN CAFE (ROTI SOELTAN);Restaurant;803;102;1000000;30;0.0000.00000.00000.;;;;
+A102.252;SACHI CAKE (NOVITA);cCustomer;SACHI CAKE (NOVITA);Restaurant;803;102;1000000;0;0.0000.00000.00000.;"Jl. Yosodipuro No 122, Mangkubumen, Banjarsari, Surakarta, Jawa Tengah 
+ (PER4AN SOLO PARAGON KEKIRI SEBELAH MANDIRI)";ROTI BAKIR;"Jl. Yosodipuro No 122, Mangkubumen, Banjarsari, Surakarta, Jawa Tengah 
+ (PER4AN SOLO PARAGON KEKIRI SEBELAH MANDIRI)";
+A101.044;SAHID KUSUMA HOTEL (PT. KUSUMA SAHID);cCustomer;PT. KUSUMA SAHID;Hotel;802;100;300000;7;0.0000.00000.00000.;Jalan Raya Sukowati No.352, Sragen, Magero, Sragen Tengah, Kec. Sragen, Kabupaten Sragen, Jawa Tengah;KOPI SRAGEN;Jalan Raya Sukowati No.352, Sragen, Magero, Sragen Tengah, Kec. Sragen, Kabupaten Sragen, Jawa Tengah;
+A102.259;SALAD AZZANA;cCustomer;SALAD AZZANA;Restaurant;803;102;3000000;0;0.0000.00000.00000.;"SACHI CAKE (NOVITA) 
+ GRAHA MANDIRI TAHAP 2 NO B5,PEREMPAPATAN RCTI,SBLUM ALFAMART PERUM GRAHA MANDIRI";SACHI CAKE (NOVITA);"SACHI CAKE (NOVITA) 
+ GRAHA MANDIRI TAHAP 2 NO B5,PEREMPAPATAN RCTI,SBLUM ALFAMART PERUM GRAHA MANDIRI";
+A104.005;SARI MELATI CATERING;cCustomer;SARI MELATI CATERING;Catering;804;103;5000000;15;;Jl. Anggrek Raya BW 15Madgondo Grogol Sukoharjo;SALAD SQUAD;Jl. Anggrek Raya BW 15Madgondo Grogol Sukoharjo;
+A102.256;SECRET GARDEN SOLO;cCustomer;SECRET GARDEN SOLO;Restaurant;803;102;1000000;0;0.0000.00000.00000.;Perumnas Palur, Jalan Manggis 3 No. 25, Ngringo, Jaten, Ngringo, Jaten, Kabupaten Karanganyar, Jawa Tengah 57731, Indonesia;SARI MELATI Catering;Perumnas Palur, Jalan Manggis 3 No. 25, Ngringo, Jaten, Ngringo, Jaten, Kabupaten Karanganyar, Jawa Tengah 57731, Indonesia;
+A102.329;SFA STEAK KARANGANYAR (FoC);cCustomer;SFA STEAK KARANGANYAR (FoC);FC;812;113;0;0;0.0000.00000.00000.;Perumnas, Jalan Cempaka 1 No.9, Perumnas Ngringo, Ngringo, Kec. Jaten, Kabupaten Karanganyar, Jawa Tengah 57772;SELAT PUSPPA;Perumnas, Jalan Cempaka 1 No.9, Perumnas Ngringo, Ngringo, Kec. Jaten, Kabupaten Karanganyar, Jawa Tengah 57772;
+A102.266;SUMMER STREET MOCKTAIL;cCustomer;SUMMER STREET MOCKTAIL;Restaurant;803;102;1000000;0;0.0000.00000.00000.;"KOMPLEK RUKO BABARSARI NO 5 BBC PLAZA 
+ ( SEKOMPLEK DENGAN CIRCLE K, KOMPLEK RUKO 
+ SEBERANG HYPERBOX KARAOKE) YOGYAKARTA";STUDIO KOPI;"KOMPLEK RUKO BABARSARI NO 5 BBC PLAZA 
+ ( SEKOMPLEK DENGAN CIRCLE K, KOMPLEK RUKO 
+ SEBERANG HYPERBOX KARAOKE) YOGYAKARTA";
+A104.006;SUNNY CATERING;cCustomer;SUNNY CATERING;Catering;804;103;5000000;0;0.0000.00000.00000.;Jl. Palagan Tentara Pelajar No. 106, Kel. Sari Harjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta;SUGAR KARAOKE;Jl. Palagan Tentara Pelajar No. 106, Kel. Sari Harjo, Kec. Ngaglik, Kabupaten Sleman, Daerah Istimewa Yogyakarta;
+A106.028;SUNRISE MEATSHOP & SUPLIYER;cCustomer;SUNRISE MEATSHOP & SUPLIYER;Distributor;811;110;5000000;14;26.292.771.8-532.000;JL. MANGGA DC-4 SOLO BARU, LANGENHARJO RT.00 RW.00, LANGENHARJO, GROGOL, SUKOHARJO, JAWA TENGAH 00000;MAPS Restaurant;JL. MANGGA DC-4 SOLO BARU, LANGENHARJO RT.00 RW.00, LANGENHARJO, GROGOL, SUKOHARJO, JAWA TENGAH 00000;
+A101.05;SYARIAH LOR IN HOTEL;cCustomer;SYARIAH LOR IN HOTEL;Hotel;802;100;1000000;28;01.781.372.6-046.000;GEDUNG PERKANTORAN BIDAKARA 2 LT. 19 - 22 JLN. JENDRAL GATOT SUBROTO KAV. 71 - 73 MENTENG DALAM - TEBETJAKARTA SELATAN - DKI JAKARTA 12870;PT. LION SUPER INDO;GEDUNG PERKANTORAN BIDAKARA 2 LT. 19 - 22 JLN. JENDRAL GATOT SUBROTO KAV. 71 - 73 MENTENG DALAM - TEBETJAKARTA SELATAN - DKI JAKARTA 12870;
+A102.268;TAKIGAWA HARTONO MALL;cCustomer;TAKIGAWA HARTONO MALL;Restaurant;803;102;5000000;30;0.0000.00000.00000.;;;;
+A102.183;THE OISHI BAR;cCustomer;THE OISHI BAR;Restaurant;803;102;2000000;30;0.0000.00000.00000.;;;;
+A101.011;THE ROYAL SURAKARTA HERITAGE HOTEL (PT. SUNINDO INDAH HOTEL);cCustomer;PT. SUNINDO INDAH HOTEL;Hotel;802;100;50000000;30;0.0000.00000.00000.;;;;
+A102.274;TONG TJI;cCustomer;TONG TJI;Restaurant;803;102;5000000;30;0.0000.00000.00000.;;;;
+A114.085;WAFFLE AND CO';cCustomer;WAFFLE AND CO';Restaurant;803;102;1000000;30;0.0000.00000.00000.;;;;
+A102.294;WAKO CHICKEN;cCustomer;WAKO CHICKEN;Restaurant;803;102;5000000;14;0.0000.00000.00000.;"Jln. Parangkesit no 20, Sondakan, Laweyan, Solo 
+ (Hotel malionoro inn, pasar kabangan ke utara, gang ke 3 ambil kiri, smk al-islam 200m, ke barat, kanan jalan)";TSABITA CAKE & BAKERY;"Jln. Parangkesit no 20, Sondakan, Laweyan, Solo 
+ (Hotel malionoro inn, pasar kabangan ke utara, gang ke 3 ambil kiri, smk al-islam 200m, ke barat, kanan jalan)";
+A102.288;WARUNG ORANGE SOLO;cCustomer;WARUNG ORANGE SOLO;Restaurant;803;102;5000000;7;82.417.520.2-526.000;Jalan Yosodipuro No.133, Mangkubumen, Banjarsari, Mangkubumen, Banjarsari, Kota Surakarta, Jawa Tengah;up date coffe;Jalan Yosodipuro No.133, Mangkubumen, Banjarsari, Mangkubumen, Banjarsari, Kota Surakarta, Jawa Tengah;
+A114.087;ZAITUN CAFE;cCustomer;ZAITUN CAFE;Restaurant;803;102;5000000;0;0.0000.00000.00000.;"Perum Griya Kencana I block B4 
+ Karangasem, Gumpang, Kartasura 
+ (Belakang pabrik tyfountex, dekat Transmart Solo)";WIDORI;"Perum Griya Kencana I block B4 
+ Karangasem, Gumpang, Kartasura 
+ (Belakang pabrik tyfountex, dekat Transmart Solo)";
