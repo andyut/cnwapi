@@ -1,0 +1,39 @@
+SAPSA;Ref;TaxAccount;type;PPn Description;
+PPNS8_18;18;2150005;bovcOutputTax;PPN 080 18-Ikan (tidak termasuk Ikan Hias);42
+PPNS8_19;19;2150005;bovcOutputTax;PPN 080 19-Rumput Laut;22
+PPNS8_20;20;2150005;bovcOutputTax;PPN 080 20-Kerang, Tiram, Remis;31
+PPNS8_21;21;2150005;bovcOutputTax;PPN 080 21-Kepiting, Rajungan;29
+PPNS8_22;22;2150005;bovcOutputTax;PPN 080 22-Teripang;19
+PPNS8_23;23;2150005;bovcOutputTax;PPN 080 23-Lobster;18
+PPNS8_24;24;2150005;bovcOutputTax;PPN 080 24-Cumi, Sotong, Gurita, Siput;38
+PPNS8_25;25;2150005;bovcOutputTax;PPN 080 25-Artemia;18
+PPNS8_26;26;2150005;bovcOutputTax;PPN 080 26-Jangat dan Kulit Mentah Tidak Disamak;48
+PPNS8_27;27;2150005;bovcOutputTax;PPN 080 27-Karkas, Nonkarkas, Jeroan;36
+PPNS8_46;46;2150005;bovcOutputTax;PPN 080 46-Jagung;17
+PPNS8_47;47;2150005;bovcOutputTax;PPN 080 47-Sagu;15
+PPNS8_50;50;2150005;bovcOutputTax;PPN 080 50-Daging;17
+PPNS8_51;51;2150005;bovcOutputTax;PPN 080 51-Telur;16
+PPNS8_52;52;2150005;bovcOutputTax;PPN 080 52-Susu;15
+PPNS8_53;53;2150005;bovcOutputTax;PPN 080 53-Buah-buahan;22
+PPNS8_54;54;2150005;bovcOutputTax;PPN 080 54-Sayur-sayuran;24
+PPNM8_18;18;1170005;bovcInputTax;PPN 080 18-Ikan (tidak termasuk Ikan Hias);42
+PPNM8_19;19;1170005;bovcInputTax;PPN 080 19-Rumput Laut;22
+PPNM8_20;20;1170005;bovcInputTax;PPN 080 20-Kerang, Tiram, Remis;31
+PPNM8_21;21;1170005;bovcInputTax;PPN 080 21-Kepiting, Rajungan;29
+PPNM8_22;22;1170005;bovcInputTax;PPN 080 22-Teripang;19
+PPNM8_23;23;1170005;bovcInputTax;PPN 080 23-Lobster;18
+PPNM8_24;24;1170005;bovcInputTax;PPN 080 24-Cumi, Sotong, Gurita, Siput;38
+PPNM8_25;25;1170005;bovcInputTax;PPN 080 25-Artemia;18
+PPNM8_26;26;1170005;bovcInputTax;PPN 080 26-Jangat dan Kulit Mentah Tidak Disamak;48
+PPNM8_27;27;1170005;bovcInputTax;PPN 080 27-Karkas, Nonkarkas, Jeroan;36
+PPNM8_46;46;1170005;bovcInputTax;PPN 080 46-Jagung;
+PPNM8_47;47;1170005;bovcInputTax;PPN 080 47-Sagu;
+PPNM8_50;50;1170005;bovcInputTax;PPN 080 50-Daging;
+PPNM8_51;51;1170005;bovcInputTax;PPN 080 51-Telur;
+PPNM8_52;52;1170005;bovcInputTax;PPN 080 52-Susu;
+PPNM8_53;53;1170005;bovcInputTax;PPN 080 53-Buah-buahan;
+PPNM8_54;54;1170005;bovcInputTax;PPN 080 54-Sayur-sayuran;
+PPNM8_16;16;1170005;bovcInputTax;PPN 080 16-Udang;
+PPNS8_16;16;2150005;bovcOutputTax;PPN 080 16-Udang;
+PPNM8_56;56;1170005;bovcInputTax;PPN 080 56- Minyak Mentah;
+PPNS8_56;56;2150005;bovcOutputTax;PPN 080 56- Minyak Mentah;
